@@ -1,4 +1,4 @@
-# kshanam
+# FrameIt
 photobooth - capture the moment that is worth keeping ✨
 --> choose your frame
 --> start timer
